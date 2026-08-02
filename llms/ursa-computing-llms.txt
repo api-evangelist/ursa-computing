@@ -1,0 +1,25 @@
+# Ursa Computing
+
+> Ursa Computing, Inc. (2020-2021) was a startup founded by Wes McKinney (creator of pandas, co-creator of Apache Arrow) to grow Apache Arrow and accelerate data science tools, backed by GV. In late 2021 Ursa Computing and Ursa Labs joined forces with other teams to form Voltron Data ("Ursa Labs is now Voltron Data Labs"). The company no longer operates independently and publishes no APIs.
+
+Generated: 2026-07-21 | Method: generated | Source: apis.yml + live probes (ursacomputing.com DNS SERVFAIL; ursalabs.org banner; github.com/ursacomputing)
+
+## Status
+
+- ursacomputing.com no longer resolves (DNS SERVFAIL, probed 2026-07-21)
+- ursalabs.org (GitHub Pages) carries the banner "Ursa Labs is now Voltron Data Labs!" with footer "Ursa Computing, Inc 2018-2021"
+- voltrondata.com, the successor company's domain, also no longer resolved on 2026-07-21
+- No developer portal, documentation, or public API surface exists for Ursa Computing
+
+## Public surfaces
+
+- [GitHub organization](https://github.com/ursacomputing): created 2020-08-21; one public repository, crossbow ("Extra CI for Apache Arrow"), still receiving automated pushes as Apache Arrow CI infrastructure
+- [Ursa Labs](https://ursalabs.org): archived predecessor lab site (2018-2021)
+
+## Lineage
+
+- 2018: Wes McKinney founds Ursa Labs, an innovation lab for open source data science (Apache Arrow)
+- 2020: Ursa Computing, Inc. incorporated (GitHub org created 2020-08); backed by GV
+- Late 2021: Ursa Labs / Ursa Computing merge into Voltron Data
+- Feb 2022: Voltron Data announces $110M in funding to build on Apache Arrow
+- 2026: voltrondata.com no longer resolves
