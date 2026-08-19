@@ -31,7 +31,7 @@ x-successor: voltron-data
 x-status-note: 'Merged into Voltron Data in late 2021; ursacomputing.com DNS SERVFAIL and
   voltrondata.com also unresolvable when probed 2026-07-21; ursalabs.org (archived) carries
   the "Ursa Labs is now Voltron Data Labs!" banner with footer "Ursa Computing, Inc 2018-2021".'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
